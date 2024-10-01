@@ -1,0 +1,111 @@
+/* App.css */
+body{
+  background-color: rgb(32, 32, 32);
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5),
+  rgba(0, 0, 0, 0.5)), url("./Helpers/background.png");
+  background-repeat: repeat;
+  background-size: 600px;
+  padding: 5%;
+}
+
+
+.App{
+  
+font-family: Arial, Helvetica, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+.Menu{
+width: 500px;
+height: 500px;
+border-radius: 10px;
+background-color: rgb(75, 119, 70);
+color: aliceblue;
+display:flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.Menu h1{
+  color: rgb(27, 65, 36);
+}
+
+.Menu button{
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(17, 77, 44);
+  color: aliceblue;
+}
+
+
+
+
+.Quize{
+  width: 700px;
+  height: 300px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(75, 119, 70);
+  color: aliceblue;
+  
+  
+}
+.Menu input{
+  background-color: rgb(196, 235, 201);
+  border: 0px;
+  height: 20px;
+}
+
+.Quize p{
+  color: rgb(16, 41, 22);
+}
+.Quize button{
+  width: 80%;
+  height: 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: rgb(21, 100, 57);
+  color: aliceblue;
+  
+}
+
+
+.certificate{
+  width: 700px;
+  height: 500px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(252, 240, 208);
+  color: rgb(48, 33, 15);
+  
+}
+
+
+.certificate button{
+  width: 300px;
+  height: 50px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: rgb(241, 229, 174);
+  color: rgb(39, 33, 21);
+}
