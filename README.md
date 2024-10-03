@@ -1,8 +1,12 @@
 # Quiz Site
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg)
+![Quiz Image](https://example.com/quiz-image.jpg)  <!-- Replace with a relevant image URL -->
 
-Welcome to the Quiz Site! This is a web application built using JavaScript and React that allows users to take quizzes on various topics. 
+Welcome to the Quiz Site! This is a web application built using React.js that allows users to take quizzes on various topics.
+
+## Live Demo
+
+You can check out the live demo of the application [here](https://certify-yourself-for-admin.netlify.app/).
 
 ## Features
 
@@ -14,10 +18,10 @@ Welcome to the Quiz Site! This is a web application built using JavaScript and R
 
 ## Technologies Used
 
+- **React.js**: For building user interfaces.
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling the application.
 - **JavaScript**: For dynamic content and quiz functionality.
-- **React**: For building user interfaces.
 - **JSON**: For storing quiz data (questions and answers).
 
 ## Getting Started
