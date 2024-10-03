@@ -1,6 +1,6 @@
 # Quiz Site
 
-![Quiz Image](https://example.com/quiz-image.jpg)  <!-- Replace with a relevant image URL -->
+![Quiz Image](https://media.istockphoto.com/id/1616906708/vector/vector-speech-bubble-with-quiz-time-words-trendy-text-balloon-with-geometric-grapic-shape.jpg?s=612x612&w=0&k=20&c=3-qsji8Y5QSuShaMi6cqONlVZ3womknA5CiJ4PCeZEI=)  <!-- Replace with a relevant image URL -->
 
 Welcome to the Quiz Site! This is a web application built using React.js that allows users to take quizzes on various topics.
 
